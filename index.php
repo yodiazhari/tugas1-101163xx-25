@@ -19,7 +19,7 @@
 	echo "</tr>";
 	echo "<tr>";
 	echo "<td> Nama </td>"; 
-	echo "<td> Yodi Azhari </td> " ;
+	echo "<td> Yodi Azhari Priyo Jatmiko </td> " ;
 	echo "</tr>";
 	echo "</table>";
 ?>
